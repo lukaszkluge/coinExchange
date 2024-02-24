@@ -34,10 +34,6 @@ This program fetches exchange rate data from the National Bank of Poland (NBP) A
 
 - .NET Core or .NET Framework installed on your machine.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE). Feel free to modify and use it for your own purposes.
-
 ## Acknowledgments
 
 - This project utilizes the National Bank of Poland (NBP) API to fetch exchange rate data.
